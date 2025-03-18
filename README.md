@@ -255,7 +255,7 @@ An EDGAR-CRAWLER paper is on its way. Until then, please cite our relevant EDGAR
 Read the EDGAR-CORPUS paper here: [https://aclanthology.org/2021.econlp-1.2/](https://aclanthology.org/2021.econlp-1.2/)
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=nlpaueb/edgar-crawler&type=Date)](https://star-history.com/#nlpaueb/edgar-crawler&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=nlpaueb/edgar-crawler&type=Date)](https://www.star-history.com/#lefterisloukas/edgar-crawler&Date)
 
 ## Accompanying Resources
 Here are some additional resources created by using **EDGAR-CRAWLER**:
